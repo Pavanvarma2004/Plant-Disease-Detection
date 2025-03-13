@@ -5,3 +5,9 @@ Implementation of Machine Learning Algorithms For Plant Disease Detection-Classi
 
 Dataset:
 https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+
+ipynb:
+Google Colab, VS Code
+
+Webpage:
+Streamlit
